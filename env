@@ -1,0 +1,4 @@
+# MONGODB_USER=
+# MONGODB_PASSWORD=
+
+MONGODB_CONNECTION_STRING=mongodb+srv://<user_name>:<password>@cardoctor.btksamg.mongodb.net/admin
